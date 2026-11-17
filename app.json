@@ -10,7 +10,8 @@
     },
     "owner": "divinepastas-team",
     "android": {
-      "package": "com.divinepastasteam.livechatclipper"
+      "package": "com.divinepastasteam.livechatclipper",
+      "newArchEnabled": false
     },
     "plugins": [
       [
@@ -23,6 +24,7 @@
           }
         }
       ]
-    ]
+    ],
+    "newArchEnabled": false
   }
 }
