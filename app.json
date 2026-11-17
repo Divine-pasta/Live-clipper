@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "269b2edb-c945-4dae-9ec6-778f4bb1f2c0"
+      }
+    },
+    "android": {
+      "package": "com.divinepasta.livechatclipper",
+      "newArchEnabled": false
+    }
+  }
+}
